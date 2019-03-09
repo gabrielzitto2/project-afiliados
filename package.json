@@ -1,0 +1,17 @@
+{
+  "name": "portal_noticias",
+  "version": "1.0.0",
+  "description": "Site de notícias",
+  "main": "noticias.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Claudio Junior",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^1.6.0",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "nodemailer": "^5.1.1"
+  }
+}
